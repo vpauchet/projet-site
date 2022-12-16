@@ -1,0 +1,105 @@
+body {
+    background: linear-gradient(rgb(25, 0, 245), rgb(5, 139, 248));
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.titre {
+    font-size: 45px;
+    background-color:rgb(25, 0, 245)
+}
+#block1{
+    padding: 2px;
+    background-color: rgb(5, 139, 248);
+    border-radius: 5px;
+    opacity: 1.5;
+}
+#prenom {
+    font-size: 30px;
+    text-align:center ;
+}
+#accroche1{
+    font-size: 28px;
+    text-align:center;
+}
+#block2{
+    padding: 2px;
+    background-color: rgb(5, 139, 248);
+    border-radius: 5px;
+    opacity: 1.5;
+}
+#accroche2{
+    font-size: 28px;
+    text-align:center;
+}
+#apropos{
+    font-size: 26px;
+}
+:root {
+    --success: #0206f7;
+    --progress: #0206f7;
+  }
+  
+  .progressbar-wrapper {
+    background-color: #dfe6e9;
+    color: white;
+    border-radius: 15px;
+    width: 100%;
+  }
+  
+  .progressbar {
+    background-color: var(--progress);
+    color: white;
+    padding: 1rem;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+  }
+  
+  .progressbar[title="downloading"] {
+     background-color: var(--success);
+  }
+  
+  .progressbar[title="downloaded"] {
+     background-color: var(--success);
+  }
+  .progressbar[title="downloaded"] {
+    background-color: var(--success);
+ }
+
+ .progressbar[title="downloaded"] {
+  background-color: var(--success);
+}
+
+.progressbar[title="downloaded"] {
+  background-color: var(--success);
+}
+    
+.HTML{
+    width: 60%;
+  }
+  
+.CSS{
+    width: 30%;
+  }
+
+.PHP{
+    width: 5%;
+  }
+  
+.Word{
+    width: 80%;
+  }  
+ 
+.Excel{
+    width: 70%;
+  }
+
+  #experiences{
+    font-size: 26px;
+  }
+  #formation{
+    font-size: 26px;
+  }
+
+  #contact{
+    font-size: 26px;
+  }
